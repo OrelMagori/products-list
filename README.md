@@ -27,11 +27,3 @@ This is a simple React application that allows users to add and delete products 
 - The list of products is rendered using the `map` function.
 - Styling is defined in `App.css`.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
